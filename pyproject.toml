@@ -1,0 +1,6 @@
+[project]
+name = "mail-header-lens"
+version = "1.0.0"
+description = "Inspect saved .eml headers locally."
+requires-python = ">=3.10"
+dependencies = []
